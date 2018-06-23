@@ -1,0 +1,11 @@
+[package]
+name = "doodle-creator"
+version = "0.1.0"
+authors = ["Pocketcookies <pocketcookies2@gmail.com>"]
+
+[dependencies]
+serde_json = "1.0"
+serde = "1.0"
+serde_derive = "1.0"
+chrono = "0.4"
+chrono-tz = "0.4"
